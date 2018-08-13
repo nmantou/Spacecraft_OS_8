@@ -2,7 +2,7 @@
 // You can write your code in this editor
 image_index = 1;
 alarm[1] = 5;
-energy -= 10;
+energy -= 1;
 audio_play_sound(au_vessel_hurt, 5, false);
 instance_destroy(other);
 if alarm[2] < 0 {
