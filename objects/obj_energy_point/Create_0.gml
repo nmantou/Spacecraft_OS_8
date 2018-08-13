@@ -8,3 +8,5 @@ depth = 0;
 energy_stone = noone;
 
 can_be_collected = true;
+image_xscale = 2;
+image_yscale = 2;

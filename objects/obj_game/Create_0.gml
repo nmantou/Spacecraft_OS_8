@@ -28,5 +28,5 @@ for(var i = 0; i < energy_stone_max_count;i = i+0;){
 }*/
 
 wave = 1;
-alarm[0] = room_speed *60;
+alarm[0] = room_speed *50;
 once = true;
